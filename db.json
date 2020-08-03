@@ -1,5 +1,4 @@
 {
-  "status": "success",
   "artist" : [
     {
       "id" : 1,
@@ -41,8 +40,5 @@
       "name": 4,
       "label": "King Gnu"
     }
-  ],
-  "profile": {
-    "name": "Sean931231"
-  }
+  ]
 }
